@@ -36,9 +36,9 @@
       "imagen": "https://c0.klipartz.com/pngpicture/1011/688/gratis-png-left-4-dead-2-dodge-charger-b-body-wiki-videojuego-gigante.png"
     },
     {
-      "nombre": "bus",
+      "nombre": "Jockey",
       "corazón": "https://us.123rf.com/450wm/fokaspokas/fokaspokas1803/fokaspokas180300208/96755115-icono-de-corazón-simple-icono-blanco-con-sombra-sobre-fondo-transparente.jpg",
-      "imagen": "https://static.wikia.nocookie.net/gamesvehicles/images/1/10/Blue_Bird_CSRE_en_Left_4_Dead_2.jpg/revision/latest?cb=20130416103230&path-prefix=es"
+      "imagen": "https://raw.githubusercontent.com/Santigumi/Entrega-2/main/data3.json"
     },
     {
       "nombre": "Frasco de bilis",
@@ -46,9 +46,34 @@
       "imagen": "https://content.instructables.com/FHA/J7B7/HZIH9CMM/FHAJ7B7HZIH9CMM.png?auto=webp"
     },
     {
-      "nombre": "Elemento 10",
+      "nombre": "Motosierra",
       "corazón": "https://us.123rf.com/450wm/fokaspokas/fokaspokas1803/fokaspokas180300208/96755115-icono-de-corazón-simple-icono-blanco-con-sombra-sobre-fondo-transparente.jpg",
-      "imagen": "https://static.wikia.nocookie.net/gamesvehicles/images/4/4b/Armoredcar_1.png/revision/latest?cb=20130416053849&path-prefix=es"
+      "imagen": "https://www.models-resource.com/resources/big_icons/29/28275.png?updated=1535921668"
+    },
+    {
+      "nombre": "Bate",
+      "corazón": "https://us.123rf.com/450wm/fokaspokas/fokaspokas1803/fokaspokas180300208/96755115-icono-de-corazón-simple-icono-blanco-con-sombra-sobre-fondo-transparente.jpg",
+      "imagen": "https://www.models-resource.com/resources/big_icons/29/28274.png?updated=1535916442"
+    },
+    {
+      "nombre": "Gnomo",
+      "corazón": "https://us.123rf.com/450wm/fokaspokas/fokaspokas1803/fokaspokas180300208/96755115-icono-de-corazón-simple-icono-blanco-con-sombra-sobre-fondo-transparente.jpg",
+      "imagen": "https://www.models-resource.com/resources/big_icons/54/53502.png?updated=1661373874"
+    },
+    {
+      "nombre": "Tanque de gasolina",
+      "corazón": "https://us.123rf.com/450wm/fokaspokas/fokaspokas1803/fokaspokas180300208/96755115-icono-de-corazón-simple-icono-blanco-con-sombra-sobre-fondo-transparente.jpg",
+      "imagen": "https://i.pinimg.com/564x/22/42/3d/22423d9e2881df8d31ae41a20b116b33.jpg"
+    },
+    {
+      "nombre": "Witcher",
+      "corazón": "https://us.123rf.com/450wm/fokaspokas/fokaspokas1803/fokaspokas180300208/96755115-icono-de-corazón-simple-icono-blanco-con-sombra-sobre-fondo-transparente.jpg",
+      "imagen": "https://i.pinimg.com/236x/1f/89/84/1f89841a2e04eb98042d50970dd54912.jpg"
+    },
+    {
+      "nombre": "Botiquín",
+      "corazón": "https://us.123rf.com/450wm/fokaspokas/fokaspokas1803/fokaspokas180300208/96755115-icono-de-corazón-simple-icono-blanco-con-sombra-sobre-fondo-transparente.jpg",
+      "imagen": "https://i.pinimg.com/236x/c2/8c/26/c28c26e0a5fd02965792c45eb61e9813.jpg"
     }
   ]
 }
